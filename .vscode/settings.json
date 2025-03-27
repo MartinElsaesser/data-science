@@ -1,0 +1,8 @@
+{
+  "editor.indentSize": "4",
+  "editor.useTabStops": false,
+  "editor.detectIndentation": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
+}
